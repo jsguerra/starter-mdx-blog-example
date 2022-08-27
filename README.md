@@ -1,3 +1,8 @@
+This example is based on the followig tutorial:
+[Create a Next.js and MDX blog](https://blog.logrocket.com/create-next-js-mdx-blog/)
+
+The setup includes a load more posts button and simple display of mdx posts.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
